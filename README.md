@@ -64,6 +64,6 @@ Every writeup in this repository follows these principles:
 
 ## Connect
 
-- X (Twitter): *[add your profile link here](https://x.com/ValaR_911)*
-- LinkedIn: *[add your profile link here](https://www.linkedin.com/in/yassin-hamada-6a3228353/)*
-- Medium: *[add your profile link here](https://medium.com/@hdhffxfg)*
+- X (Twitter): *[ link here](https://x.com/ValaR_911)*
+- LinkedIn: *[ link here](https://www.linkedin.com/in/yassin-hamada-6a3228353/)*
+- Medium: *[ link here](https://medium.com/@hdhffxfg)*
