@@ -55,10 +55,10 @@ Every writeup in this repository follows these principles:
 
 ## Connect
 
-- **X (Twitter):** [@yourhandle](#)
+- **X (Twitter):** [@ValaR_911](#)
 - **LinkedIn:** [Yassin Hamada](#)
 - **Threat Intel Notes:** [threat-intel-notes](#)
-- **Medium:** [link](#)
+- **Medium:** [[link](https://medium.com/@hdhffxfg)](#)
 
 ---
 
