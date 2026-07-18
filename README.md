@@ -12,6 +12,8 @@ This repository documents my ongoing work in OSINT research — from foundationa
 
 I'm currently building this alongside industry-recognized training and certification paths, including Certified Ethical Hacker (CEH), incident response (SEC504/GCIH track), and SOC analysis (SEC450/GSOC track).
 
+Written by **Yassin Hamada** — cybersecurity researcher focused on OSINT, malware analysis, and threat intelligence.
+
 ---
 
 ## Index
@@ -34,10 +36,17 @@ I'm currently building this alongside industry-recognized training and certifica
 
 ```
 osint-writeups/
-├── README.md          # You are here
-├── template.md         # Standard format used for every writeup
-├── resources.md         # OSINT tools and references I use regularly
-└── writeups/            # All published writeups and practice scenarios
+├── README.md
+├── template.md
+├── resources.md
+└── writeups/
+    ├── osint-recon-checklist.md
+    ├── what-tracelabs-taught-me.md
+    ├── scenario1-attack-surface.md
+    ├── scenario2-username-correlation.md
+    ├── scenario3-corporate-self-audit.md
+    ├── scenario4-image-geolocation.md
+    └── scenario5-darkweb-exposure-check.md
 ```
 
 ---
@@ -55,13 +64,6 @@ Every writeup in this repository follows these principles:
 
 ## Connect
 
-- **X (Twitter):** [@ValaR_911](#)
-- **LinkedIn:** [Yassin Hamada](#)
-- **Threat Intel Notes:** [threat-intel-notes](#)
-- **Medium:** [[link](https://medium.com/@hdhffxfg)](#)
-
----
-
-### About Me
-
-Cybersecurity researcher focused on OSINT, malware analysis, and threat intelligence. Building hands-on experience through independent research, applied training, and collaborative bug bounty work.
+- X (Twitter): *add your profile link here*
+- LinkedIn: *add your profile link here*
+- Medium: *add your profile link here*
